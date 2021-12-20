@@ -4,4 +4,4 @@ Inferential statistics was used to determine if bias due to gender or race exist
 
 Data.csv contains a dataset with the following variables - employee test score, performance rating, race, and gender.
 
-performanceadvimpact.R is a R script which contains statistical analysis of the data.
+performanceadvimpact.R is a R script which contains statistical analysis of the data. Analyses run include ANOVA, t-test, and correlations.
