@@ -1,7 +1,7 @@
 # Performance-Adverse-Impact
 
-Inferential statistics was used to determine if an aptitude test successfully predicted future employee performance. The possibility of systemic bias due to race or gender was also investigated.
+Inferential statistics was used to determine if bias due to gender or race existed in the scores of an aptitude test. The validity of the test in predicting future job performance was also analyzed.
 
-Data.csv contains a dataset of employee test scores, performance ratings, race, and gender.
+Data.csv contains a dataset with the following variables - employee test score, performance rating, race, and gender.
 
-performanceadvimpact.R is a R script which contains data structuring and statistical analysis of the data.
+performanceadvimpact.R is a R script which contains statistical analysis of the data.
