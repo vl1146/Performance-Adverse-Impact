@@ -1,7 +1,7 @@
 ## MAIN QUESTION - IS THERE ADVERSE IMPACT ON PERFORMANCE TEST RATINGS AND DOES THE TEST SUCCESSFULLY PREDICT PERFORMANCE? 
 
 
-data1 <- read.csv("D:/desktop/Programming/R/Perfadvimpact/data.csv")
+data1 <- read.csv("data.csv")
 
 str(data1)
 
