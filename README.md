@@ -4,4 +4,4 @@ Inferential statistics was used to determine if an aptitude test successfully pr
 
 Data.csv contains a dataset of employee test scores, performance ratings, race, and gender.
 
-performanceadvimpact.R is a R script which contains structuring and statistical analysis of the data.
+performanceadvimpact.R is a R script which contains data structuring and statistical analysis of the data.
